@@ -1,1 +1,1 @@
-# Power-Bi
+Welcome to my Power BI Dashboard Portfolio! This repository contains a collection of interactive dashboards created using Power BI, showcasing various data insights and visualizations. Each dashboard is designed to provide clear and actionable insights into different aspects of the business operations, leveraging data from multiple sources.
